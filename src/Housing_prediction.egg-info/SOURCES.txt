@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/Housing_prediction.egg-info/PKG-INFO
+src/Housing_prediction.egg-info/SOURCES.txt
+src/Housing_prediction.egg-info/dependency_links.txt
+src/Housing_prediction.egg-info/top_level.txt
